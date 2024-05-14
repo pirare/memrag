@@ -7,3 +7,7 @@ Given a sentence or paragraph -> memrag -> Context that might be related to the 
 
 Memory: Just like how people get to know each other, the goal is to simulate how human memorize, which in theory is just another complex neural network.
 How do we do that: 1. Read a bunch of memory related stuff 2. Go down the rabbit hole of building a memory model 3. Figure out what the my training data is 4. Figure out how memory should be structured
+
+1. Memory storage type
+   https://www.youtube.com/watch?v=51pPsbV-e9s
+   https://www.ncbi.nlm.nih.gov/books/NBK234153/
